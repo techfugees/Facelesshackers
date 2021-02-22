@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TechfugeesSurvailance App</string>
+    <string name="techfugees">Techfugees</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_techfugees_survailance_app_log_in_with_your_details_below_to_access_the_reporting_features">Welcome to Techfugees Survailance App. Log in with your details below to access the reporting features</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">********</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="request_account">Request Account</string>
+    <string name="logo">logo</string>
+    <string name="userProfile">userProfile</string>
+    <string name="welcome_cliff">Welcome Cliff</string>
+    <string name="_36_home_visits">36 Home Visits</string>
+    <string name="_38_referrals">38 Referrals</string>
+    <string name="_14_emergency_cases">14 Emergency Cases</string>
+    <string name="report_case">Report Case</string>
+    <string name="set_reminders">Set Reminders</string>
+    <string name="analytics_and_reports">Analytics and Reports</string>
+    <string name="get_started">Get Started</string>
+    <string name="write_your_report_here">Write your report here</string>
+    <string name="send_the_following_information_about_the_case_to_kenya_red_cross_health_management_system_you_can_collect_the_information_via_text_in_the_fields_below">Send the following information about the case to Kenya Red Cross Health Management System. You can collect the information via text in the fields below</string>
+    <string-array name="Conditions">
+        <item>Nutrition</item>
+        <item>Laboratory</item>
+        <item>Outpatient</item>
+        <item>Antenatal Care</item>
+        <item>Maternity</item>
+        <item>Immunization</item>
+        <item>TB HIV sector</item>
+        <item>Community health</item>
+        <item>Covid-19 (Coronavirus)</item>
+        <item>Diabetes</item>
+    </string-array>
+    <string-array name="Location">
+        <item>Kalobeyi 1</item>
+        <item>Kalobeyi 2</item>
+        <item>Kalobeyi 3</item>
+    </string-array>
+</resources>

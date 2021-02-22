@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_reporting"
+    app:startDestination="@id/reporting">
+
+    <fragment
+        android:id="@+id/reporting"
+        android:name="com.faceless.techfugeessurvailanceapp.Reporting"
+        android:label="fragment_reporting"
+        tools:layout="@layout/fragment_reporting" />
+</navigation>
