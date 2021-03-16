@@ -5,4 +5,9 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="textColor">#303736</color>
     <color name="BgColor">#DFF1F9</color>
+    <color name="White">#FFFF</color>
+    <color name="BgButtonReport">#AD2D06</color>
+    <color name="BgButtonReminder">#0A7369</color>
+    <color name="BgButtonRequestAccount">#222223</color>
+
 </resources>

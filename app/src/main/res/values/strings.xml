@@ -3,7 +3,7 @@
     <string name="techfugees">Techfugees</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="welcome_to_techfugees_survailance_app_log_in_with_your_details_below_to_access_the_reporting_features">Welcome to Techfugees Survailance App. Log in with your details below to access the reporting features</string>
+    <string name="welcome_to_techfugees_survailance_app_log_in_with_your_details_below_to_access_the_reporting_features">Welcome to Health E-Watch App. Log in with your details below to access the reporting features</string>
     <string name="enter_email">Enter Email</string>
     <string name="password">********</string>
     <string name="login">Login</string>

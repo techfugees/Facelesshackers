@@ -12,17 +12,17 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="158dp"
-        android:layout_height="169dp"
+        android:layout_width="354dp"
+        android:layout_height="90dp"
         android:contentDescription="@string/logo"
         android:scaleType="fitXY"
-        android:src="@drawable/image2"
+        android:src="@drawable/ehealthwatch"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.028"
+        app:layout_constraintVertical_bias="0.074"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -70,8 +70,10 @@
 
     <Button
         android:id="@+id/buttonLogin"
+        android:textAllCaps="false"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/BgButtonReport"
         android:text="@string/login"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -83,8 +85,10 @@
 
     <Button
         android:id="@+id/buttonForgetPassowrd"
+        android:textAllCaps="false"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/BgButtonReminder"
         android:text="@string/forget_password"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -96,8 +100,10 @@
 
     <Button
         android:id="@+id/buttonRequestAccount"
+        android:textAllCaps="false"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/BgButtonRequestAccount"
         android:text="@string/request_account"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

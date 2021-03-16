@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFFFF"
-    tools:context=".Reporting">
+    tools:context=".dashboard.Reporting">
 
 
     <TextView
@@ -73,7 +73,10 @@
 
 
     <Button
+        android:id="@+id/btn_sendReport"
         android:layout_width="171dp"
+        android:background="@color/BgButtonReminder"
+        android:textAllCaps="false"
         android:layout_height="wrap_content"
         android:layout_below="@+id/edReport"
         android:layout_alignParentStart="true"

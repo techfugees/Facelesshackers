@@ -9,5 +9,15 @@
         android:id="@+id/dashboardFragment"
         android:name="com.faceless.techfugeessurvailanceapp.dashboard.DashboardFragment"
         android:label="fragment_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_dashboardFragment_to_reporting2"
+            app:destination="@id/reporting2"
+            app:enterAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/reporting2"
+        android:name="com.faceless.techfugeessurvailanceapp.dashboard.Reporting"
+        android:label="fragment_reporting"
+        tools:layout="@layout/fragment_reporting" />
 </navigation>

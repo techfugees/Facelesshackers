@@ -19,7 +19,7 @@ import com.faceless.techfugeessurvailanceapp.ui.visible
 import kotlinx.coroutines.launch
 
 
-class LoginFragment : BaseFragment<AuthViewModel,FragmentLoginBinding, AuthRepository>() {
+class LoginFragment : BaseFragment<AuthViewModel, FragmentLoginBinding, AuthRepository>() {
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)

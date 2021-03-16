@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/reporting"
-        android:name="com.faceless.techfugeessurvailanceapp.Reporting"
+        android:name="com.faceless.techfugeessurvailanceapp.dashboard.Reporting"
         android:label="fragment_reporting"
         tools:layout="@layout/fragment_reporting" />
 </navigation>

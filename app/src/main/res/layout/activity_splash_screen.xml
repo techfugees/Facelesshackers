@@ -28,65 +28,21 @@
         android:textSize="25sp" />
 
     <ImageView
-        android:layout_width="190dp"
-        android:layout_height="132dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="209dp"
-        android:layout_marginLeft="209dp"
-        android:layout_marginEnd="12dp"
-        android:layout_marginRight="12dp"
-        android:layout_marginBottom="268dp"
-        android:src="@drawable/oracle" />
-
-    <ImageView
-        android:layout_width="222dp"
-        android:layout_height="153dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="112dp"
-        android:layout_marginLeft="112dp"
-        android:layout_marginEnd="77dp"
-        android:layout_marginRight="77dp"
-        android:layout_marginBottom="367dp"
-        android:src="@drawable/google" />
-
-    <ImageView
-        android:layout_width="190dp"
-        android:layout_height="132dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="17dp"
-        android:layout_marginLeft="17dp"
-        android:layout_marginEnd="204dp"
-        android:layout_marginRight="204dp"
-        android:layout_marginBottom="258dp"
-        android:src="@drawable/ihublogo" />
-
-    <ImageView
         android:id="@+id/ehealthlogo"
-        android:layout_width="368dp"
-        android:layout_height="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="86dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginStart="13dp"
-        android:layout_marginLeft="13dp"
-        android:layout_marginTop="436dp"
-        android:layout_marginEnd="30dp"
-        android:layout_marginRight="30dp"
-        android:layout_marginBottom="401dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="345dp"
         android:src="@drawable/ehealthwatch" />
 
 
