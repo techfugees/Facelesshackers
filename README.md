@@ -1,4 +1,4 @@
-# TAPP
+(OLD PROJECT - not used anymore)
 
 Back in 2019, the Techfugees Kenya hackathon winning team, Faceless Hackers, presented a 3-module application to improve the efficiency in clinical conditions management in refugee camps in Kenya with an e-health solution that makes it easy to report, monitor, assess and act upon health related problems: 
 1/ A mobile application for refugees to report health issues to the relevant authorities. It would automatically pick up the location of the person reporting the case, to facilitate tracking.
